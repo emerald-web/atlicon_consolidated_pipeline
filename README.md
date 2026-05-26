@@ -2,5 +2,5 @@
 
 ## System Architecture
 
-![System Architecture Diagram](/Workspace/Users/greatemmanuel78@gmail.com/atlicon_consolidated_pipeline/consolidated_pipeline/Docs/Diagram 3 System Architecture.jpg)
+![System Architecture Diagram](./consolidated_pipeline/Docs/Diagram%203%20System%20Architecture.jpg)
 
