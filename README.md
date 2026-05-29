@@ -1,3 +1,4 @@
+# Atlicon Consolidated Pipeline: FMCG Lakehouse & Analytics Platform for Post-Acquisition Integration
 # From Two Companies to One Truth: Building a Unified Data Platform After Acquisition
 
 ## Executive Summary
