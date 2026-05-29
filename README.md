@@ -1,5 +1,6 @@
 # From Two Companies to One Truth: Building a Unified Data Platform After Acquisition
 
+## Executive Summary
 ## The Acquisition Challenge: When Data Became the Bottleneck
 
 When Atlicon, a leading FMCG manufacturer, acquired Sports Bar (a smaller startup), they faced a critical challenge: **two companies, two separate data systems, and no unified view of the combined business**. The COO needed consolidated analytics for supply chain and inventory forecasting, and he needed it fast.
@@ -11,7 +12,7 @@ When Atlicon, a leading FMCG manufacturer, acquired Sports Bar (a smaller startu
 **The Impact:** Delivered in 3 weeks. Stakeholders now have a unified view of the business, automated daily updates, and self-service analytics, all on a scalable platform designed for long-term growth.
 
 ---
-
+## The Business Challenge
 ## Three Non-Negotiable Requirements from Leadership
 
 After the acquisition, leadership laid out three critical requirements:
